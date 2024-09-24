@@ -1,2 +1,8 @@
 # piano-no-arduino
-Neste projeto tentarei criar um micro piano com meu arduino.
+
+Materiais:
+Arduino
+Fios de ligação em ponte
+12 botões para teste
+2 10k po
+Papelão
